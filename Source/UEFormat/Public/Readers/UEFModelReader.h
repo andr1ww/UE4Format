@@ -92,7 +92,7 @@ public:
     TArray<FLODData> LODs;
 
 private:
-    const std::string GMAGIC = "UE4FORMAT";
+    const std::string GMAGIC = "UEFORMAT";
 
     std::ifstream Ar;
 

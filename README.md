@@ -1,6 +1,6 @@
 # UE4Format
 
-An UE4Format .uemodel importer for Unreal Engine 4
+A .uemodel importer for Unreal Engine 4
 
 ## 🔧 Installation & Usage
 
